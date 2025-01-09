@@ -95,8 +95,4 @@ Contributions are welcome! Fork the repository, enhance the code, and submit a p
 
 This project is licensed under the MIT License.  
 
----
-
-🚀 Developed with ❤️ by [Shiwansh Rai](https://github.com/shiwanshra1)  
-```
 
