@@ -1,6 +1,6 @@
-Here’s the updated `README.md` with the correct file name `RaptorGemini.py`:  
+ 
 
-```markdown
+
 # Raptor: Your Multimodal Chatbot ⚡️  
 
 Raptor is an intelligent and multimodal chatbot built with Streamlit. It leverages Google's Gemini Flash model to provide real-time responses to both text and image inputs. The chatbot offers a personalized experience by recognizing and greeting users.  
@@ -102,4 +102,3 @@ This project is licensed under the MIT License.
 🚀 Developed with ❤️ by [Shiwansh Rai](https://github.com/shiwanshra1)  
 ```  
 
-Let me know if you'd like any further modifications! 😊
